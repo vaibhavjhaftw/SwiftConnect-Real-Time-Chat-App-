@@ -39,7 +39,6 @@
 |------------|-------------|
 | **FlutterFlow** | Drag-and-drop Flutter builder for rapid development |
 | **Firebase** | Authentication and backend services for real-time updates |
-| **Dart** | Programming language used to build the app |
 
 ---
 
