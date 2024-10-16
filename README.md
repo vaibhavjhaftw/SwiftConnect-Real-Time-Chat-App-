@@ -38,7 +38,9 @@
 | Technology | Description |
 |------------|-------------|
 | **FlutterFlow** | Drag-and-drop Flutter builder for rapid development |
-| **Firebase** | Authentication and backend services for real-time updates |
+| Firebase Auth | Handles secure user authentication |
+| Firebase Firestore | Cloud-based NoSQL database for storing task data |
+| Flutter Widgets | For building a dynamic and responsive UI |
 
 ---
 
